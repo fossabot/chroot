@@ -1,4 +1,7 @@
 # chroot
+
+[![Join the chat at https://gitter.im/glaucuslinux/chroot](https://badges.gitter.im/glaucuslinux/chroot.svg)](https://gitter.im/glaucuslinux/chroot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 glaucus's chroot
 
 ## Mirrors
