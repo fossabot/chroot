@@ -12,39 +12,39 @@ https://gitter.im/glaucuslinux/chroot?utm_source=badge&utm_medium=badge&utm_camp
 glaucus's chroot
 
 ## cerata
-* `binutils`: 2.34
-* `gmp`: 6.2.0
-* `mpfr`: 4.0.2
-* `mpc`: 1.1.0
-* `gcc`: 9.2.0
-* `linux-headers`: 5.5.6
-* `musl`: 1.2.0
-* `libstdc++-v3`: 9.2.0
-* `isl`: 0.22.1
-* `m4`: 1.4.18
-* `netbsd-curses`: 0.3.1
-* `oksh`: 6.6
-* `dash`: 0.5.10.2
 * `bash`: 5.0
+* `binutils`: 2.34
 * `bison`: 3.5.2
-* `lbzip2`: 2.5
-* `toybox`: 0.8.2
-* `rsync`: 3.1.3
+* `dash`: 0.5.10.2
 * `diffutils`: 3.7
 * `file`: 5.38
 * `findutils`: 4.7.0
-* `mawk`: 1.3.4-20200120
+* `gcc`: 9.2.0
 * `gettext-tiny`: 0.3.1
+* `gmp`: 6.2.0
 * `grep`: 3.4
-* `zlib-ng`: git
-* `pigz`: 2.4
+* `isl`: 0.22.1
+* `lbzip2`: 2.5
+* `libarchive`: 3.4.2
+* `libstdc++-v3`: 9.2.0
+* `linux-headers`: 5.5.6
+* `m4`: 1.4.18
 * `make`: 4.3
+* `mawk`: 1.3.4-20200120
+* `mpc`: 1.1.0
+* `mpfr`: 4.0.2
+* `musl`: 1.2.0
+* `netbsd-curses`: 0.3.1
+* `oksh`: 6.6
 * `patch`: 2.7.6
 * `perl`: 5.30.1
+* `pigz`: 2.4
+* `rsync`: 3.1.3
 * `sed`: 4.8
-* `xz`: 5.2.4
-* `libarchive`: 3.4.2
 * `texinfo`: 6.7
+* `toybox`: 0.8.2
+* `xz`: 5.2.4
+* `zlib-ng`: git
 
 ## Community
 * [Discord](https://discord.gg/gZSHj65)
