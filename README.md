@@ -8,6 +8,7 @@ https://github.com/glaucuslinux/chroot/releases)
 [![Join the chat at https://gitter.im/glaucuslinux/chroot](
 https://badges.gitter.im/glaucuslinux/chroot.svg)](
 https://gitter.im/glaucuslinux/chroot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fglaucuslinux%2Fchroot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fglaucuslinux%2Fchroot?ref=badge_shield)
 
 glaucus's chroot
 
@@ -60,3 +61,7 @@ glaucus's chroot
 * [NotABug](https://notabug.org/glaucuslinux/chroot)
 * [SourceForge](https://git.code.sf.net/p/glaucuslinux/chroot)
 * [SourceHut](https://git.sr.ht/~glaucuslinux/chroot)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fglaucuslinux%2Fchroot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fglaucuslinux%2Fchroot?ref=badge_large)
